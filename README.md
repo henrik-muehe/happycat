@@ -6,7 +6,7 @@ Improvements and practical modifications to the **Grabner Happy Cat Star** infla
 
 ## Modifications
 
-- [Slipwheel mounting spacers](modifications/slipwheel-spacers/) — keep both mounting bolts securely in place when the slipwheel arms are removed. Photo and STL to follow.
+- [Slipwheel mounting spacers](modifications/slipwheel-spacers/) — keep both mounting bolts securely in place when the slipwheel arms are removed. STL and 3D preview included; installation photo to follow.
 
 Each modification will have its own subfolder containing a Markdown guide and everything needed to understand and reproduce it: photos, drawings, 3D-printable models, CAD sources, or other supporting files.
 

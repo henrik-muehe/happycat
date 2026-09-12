@@ -2,6 +2,10 @@
 
 Two simple cylindrical spacers for the newer **Grabner Happy Cat Star slipwheel mounting brackets**.
 
+<a href="files/cylinder_35x35_bore9.stl"><img src="images/spacer-preview.png" alt="STL preview of a cylindrical spacer with a central through-hole" width="280"></a>
+
+*Click the preview to open GitHub's interactive STL viewer.*
+
 ## The problem
 
 The metal mounting bracket can stay permanently on the rear crossmember, but without the slipwheel arm installed, only one bolt holds it in place and the other can slip out. Simply fitting the original nut can leave things sitting awkwardly when the hulls are inflated.
@@ -16,4 +20,8 @@ Leave the bracket and both bolts on the rear crossmember, with the spacers fitte
 
 ## Files
 
-Spacers made; photo and STL file to follow. Dimensions and print settings are not documented yet.
+- [STL model / interactive 3D viewer](files/cylinder_35x35_bore9.stl)
+- [Download STL](files/cylinder_35x35_bore9.stl?raw=true)
+- Dimensions: **35 mm outer diameter × 35 mm tall**, with a **9 mm through-hole**. Import the STL in millimetres and print two copies at 100% scale.
+
+Spacers made; installation photo to follow. Material and print settings are not documented yet.
